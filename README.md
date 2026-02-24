@@ -7,7 +7,7 @@ Prodi: Sistem Informasi
 
 Kelas: A'2024
 
-## Wajib
+## Tugas
 ### 1. Add to cart from product list
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/09ecf2e4-cdb3-4e3c-8a0e-7f957c07bd0b" />
 
@@ -23,7 +23,7 @@ Kelas: A'2024
 ### 5. Display total price correctly
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2c5c72ea-b187-4a5e-bf18-2c757e4de86d" />
 
-## Nilai Tambah
+## Bonus
 ### 1. Search/Filter (Search products by name)
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/74a0c4ee-f230-4648-a483-23e5db67ecd9" />
 
