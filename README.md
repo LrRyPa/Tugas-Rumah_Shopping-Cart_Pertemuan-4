@@ -34,13 +34,15 @@ Selain itu, terdapat juga fitur **Remove Items from Cart** yang memungkinkan pen
 Pada fitur menampilkan daftar produk, terdapat tampilan jumlah total keseluruhan harga item dengan menggunakan perhitungan **product.price * quantity** (harga produk * jumlahnya).
 
 ### 6. Clear all (Empty cart message)
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9339a2f6-db20-4bf9-ab28-bf822a46d659" />
 
 Fitur **Clear All** juga tersedia untuk memudahkan pengguna menghapus seluruh produk yang di dalam keranjang sekaligus tanpa perlu menghapus semua item satu persatu.
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/03576b77-7213-4dd2-b737-a1f37cd54f67" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9339a2f6-db20-4bf9-ab28-bf822a46d659" />
 
 Ketika pengguna ingin menggunakan fitur **Clear All** akan muncul pop up berupa konfirmasi untuk memastikan apakah pengguna tetap ingin menghapus seluruh produk dari dalam keranjang.
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/03576b77-7213-4dd2-b737-a1f37cd54f67" />
+
 
 ## Bonus
 
